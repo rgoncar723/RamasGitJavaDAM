@@ -27,6 +27,7 @@ public class Main {
 			number = random.nextInt(99) + 1;
 		}
 		System.out.printf("\nNumero complementario: %d", number);
+		System.out.println("Cambio realizado desde GitHub.");
 
 	}
 
